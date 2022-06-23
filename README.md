@@ -1,8 +1,8 @@
-# PlatziStore
+# FakeStore.shop
 
-PlatziStore somos comercio en línea con una gran cantidad de productos a comercializar. Estamos por lanzar nuestra implementación y necesitamos resolver los problemas que presenta nuestra aplicación.
+FakeStore somos comercio en línea con una gran cantidad de productos a comercializar. Estamos por lanzar nuestra implementación y necesitamos resolver los problemas que presenta nuestra aplicación.
 
-PlatziStore tiene varios bugs, tareas sin completar y recursos a implementar para su lanzamiento oficial.
+FakeStore tiene varios bugs, tareas sin completar y recursos a implementar para su lanzamiento oficial.
 
 ### Instalación
 
@@ -18,7 +18,8 @@ npm run start
 
 ### Debug
 
-http://localhost:8080/public/
+- http://fakestore.shop
+- localhost:8080/public
 
 ### Documentación
 
@@ -123,7 +124,7 @@ Debes de hacer un "Fork" de este proyecto, revolver los problemas y crear un Pul
 
 ### Contribuir
 
-Si alguien quiere agregar o mejorar algo, lo invito a colaborar directamente en este repositorio: [js-challenge](https://github.com/platzi/js-challenge/)
+Si alguien quiere agregar o mejorar algo, lo invito a colaborar directamente en este repositorio: [laboratorio-fakestore](https://github.com/platzi/laboratorio-fakestore/)
 
 ### Licencia
 
